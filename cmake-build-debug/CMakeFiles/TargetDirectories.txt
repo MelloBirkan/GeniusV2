@@ -1,0 +1,3 @@
+D:/iCloudDrive/Faculdade/Primeiro Semestre/CircuitosEletroeletronicos/genius/GeniusV2/cmake-build-debug/CMakeFiles/GeniusV2.dir
+D:/iCloudDrive/Faculdade/Primeiro Semestre/CircuitosEletroeletronicos/genius/GeniusV2/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/iCloudDrive/Faculdade/Primeiro Semestre/CircuitosEletroeletronicos/genius/GeniusV2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
